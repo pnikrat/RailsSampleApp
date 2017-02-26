@@ -5,6 +5,7 @@ This is the sample application for
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+This webapp is available at: [Heroku](https://aqueous-depths-85060.herokuapp.com/)
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
