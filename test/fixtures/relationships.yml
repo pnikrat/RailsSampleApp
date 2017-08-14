@@ -1,1 +1,15 @@
-# empty
+one:
+  follower: michael
+  followed: user_1
+
+two:
+  follower: michael
+  followed: malory
+
+three:
+  follower: user_1
+  followed: michael
+
+four:
+  follower: user_2
+  followed: michael
